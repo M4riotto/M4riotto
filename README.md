@@ -26,6 +26,23 @@ Sou novo nesse mundo, me formei em técnico de desenvolvimento WEB pelo IFSP há
 
 ---
 
+</br>
+</br>
+<div display="inline-block">
+ <p align="left">🤿 Sou um desenvolvedor em busca de desafios no mercado de trabalho;</p>
+ <p align="left">💻 Sou formado em Técnologia da Informação;</p>
+ <p align="left">📚 Tenho trabalhado e estudado com php e js, mas também gosto de me aventurar em Node e Reat nas horas vagas e arranhando um pouco de laravel;</p>
+ <p align="left">☕🎮 só acordo com café, gosto de jogar e faço piadas ruins com certa frequência.</p>
+</div>
+
+
+<a href="https://www.instagram.com/vitormoreira.x" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.linkedin.com/in/vitormariotto" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://dev.to/jeniblo_dev" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
+
+
+---
+
 ## ⭐ GitHub Stats
 
 <a href="https://github.com/jeniblodev">
