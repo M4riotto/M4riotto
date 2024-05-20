@@ -24,7 +24,6 @@ Sou novo nesse mundo, me formei em técnico de desenvolvimento WEB pelo IFSP há
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 
 
----
 
 </br>
 </br>
@@ -36,9 +35,14 @@ Sou novo nesse mundo, me formei em técnico de desenvolvimento WEB pelo IFSP há
 </div>
 
 
+</br>
+</br> 
+
 <a href="https://www.instagram.com/vitormoreira.x" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/vitormariotto" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
+</br>
+</br>
 
 ---
 
