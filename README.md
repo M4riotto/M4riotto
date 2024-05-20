@@ -38,8 +38,6 @@ Sou novo nesse mundo, me formei em técnico de desenvolvimento WEB pelo IFSP há
 
 <a href="https://www.instagram.com/vitormoreira.x" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/vitormariotto" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://dev.to/jeniblo_dev" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-
 
 ---
 
