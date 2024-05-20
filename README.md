@@ -28,4 +28,7 @@ Sou novo nesse mundo, me formei em técnico de desenvolvimento WEB pelo IFSP há
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4riotto&show_icons=true)
+<a href="https://github.com/jeniblodev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M4riotto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M4riotto&layout=compact&langs_count=8&theme=algolia"/>
+</a>
