@@ -30,7 +30,7 @@ Sou novo nesse mundo, me formei em técnico de desenvolvimento WEB pelo IFSP há
 <div display="inline-block">
  <p align="left">🤿 Sou um desenvolvedor em busca de desafios no mercado de trabalho;</p>
  <p align="left">💻 Sou formado em Técnologia da Informação;</p>
- <p align="left">📚 Tenho trabalhado e estudado com php e js, mas também gosto de me aventurar em Node e Reat nas horas vagas e arranhando um pouco de laravel;</p>
+ <p align="left">📚 Tenho trabalhado e estudado com php e js, mas também gosto de me aventurar em Node.js e React nas horas vagas e arranhando um pouco de laravel;</p>
  <p align="left">☕🎮 só acordo com café, gosto de jogar e faço piadas ruins com certa frequência.</p>
 </div>
 
