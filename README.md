@@ -1,12 +1,10 @@
-## 💻 Olá, meu nome é Vítor Moreira!
+## 💻 Olá! 👋 Sou Vítor Moreira
 
-Sou Vítor Moreira, moro em Caraguatatuba-SP. Gosto tanto de programação que estou disposto a ficar calvo para trabalhar com essa maravilha.
+Sou desenvolvedor web apaixonado por tecnologia, residente em Caraguatatuba-SP. Formado há 2 anos pelo IFSP no curso técnico de Desenvolvimento Web, venho desde então me dedicando ao crescimento contínuo na área.
 
-Sou novo nesse mundo, me formei em técnico de desenvolvimento WEB pelo IFSP há 2 Anos.
+🔭 Atualmente, atuo no desenvolvimento do sistema de rede e comunidade do Undertake High, voltado ao crescimento pessoal e profissional, além de integrar a equipe responsável pelo sistema de lojistas e avaliação de veículos da Concessionária Econorte.
 
-🔭 Sou desenvolvedor do sistema de network e comunidade de desenvolvimento pessoal e profissional do Undertake High e também do sistema de lojista da Concessionária Econorte.
-
-💬 Sou um desenvolvedor Júnior, que ama resolver bugs e aprender cada dia mais desse universo da programação.
+💡 Como desenvolvedor Júnior - FullStack, tenho grande entusiasmo por resolver bugs, aprender novas tecnologias e transformar ideias em soluções reais. Acredito no poder da programação para criar impacto positivo — e sim, estou até disposto a perder os cabelos por isso. 😄
 
 ---
 
